@@ -1,0 +1,63 @@
+
+[
+  {
+    "id": 1,
+    "question": "What is the employee leave policy?",
+    "departments": ["HR"],
+    "relevant_documents": ["leave_policy.txt"]
+  },
+  {
+    "id": 2,
+    "question": "What guidelines are provided in the employee handbook?",
+    "departments": ["HR"],
+    "relevant_documents": ["employee_handbook.txt"]
+  },
+  {
+    "id": 3,
+    "question": "What is the annual company budget?",
+    "departments": ["Finance"],
+    "relevant_documents": ["annual_budget.txt"]
+  },
+  {
+    "id": 4,
+    "question": "How does the company handle expense reimbursement?",
+    "departments": ["Finance"],
+    "relevant_documents": ["expense_reimbursement_policy.txt"]
+  },
+  {
+    "id": 5,
+    "question": "What is the company's marketing strategy?",
+    "departments": ["Marketing"],
+    "relevant_documents": ["marketing_strategy.txt"]
+  },
+  {
+    "id": 6,
+    "question": "What were the results of the marketing campaign?",
+    "departments": ["Marketing"],
+    "relevant_documents": ["campaign_report.txt"]
+  },
+  {
+    "id": 7,
+    "question": "Explain the system architecture.",
+    "departments": ["Engineering"],
+    "relevant_documents": ["system_architecture.txt"]
+  },
+  {
+    "id": 8,
+    "question": "Which API endpoints are documented?",
+    "departments": ["Engineering"],
+    "relevant_documents": ["api_documentation.txt"]
+  },
+  {
+    "id": 9,
+    "question": "What is the vendor management process?",
+    "departments": ["Operations"],
+    "relevant_documents": ["vendor_management_policy.txt"]
+  },
+  {
+    "id": 10,
+    "question": "What are the company's procurement guidelines?",
+    "departments": ["Operations"],
+    "relevant_documents": ["procurement_guidelines.txt"]
+  }
+]

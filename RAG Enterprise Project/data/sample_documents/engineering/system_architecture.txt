@@ -1,0 +1,253 @@
+NORTHSTAR SYSTEMS, INC.
+ENTERPRISE PLATFORM SYSTEM ARCHITECTURE
+
+Document ID: ENG-ARCH-001
+Version: 1.3
+Effective Date: February 1, 2026
+Owner: Engineering Department
+Classification: Internal Technical Documentation
+
+INTRODUCTION
+
+This document describes the high-level architecture of the Northstar Enterprise Workflow Platform.
+
+The platform is a cloud-hosted software solution that enables enterprise customers to automate business workflows, integrate external systems, manage operational activities, and generate analytical reports.
+
+The architecture is designed around scalability, security, maintainability, and reliable integration with external enterprise services.
+
+The engineering infrastructure is funded through the approved FY2026 Engineering budget of $800,000.
+
+1. ARCHITECTURAL OVERVIEW
+
+The platform follows a modular service-oriented architecture.
+
+The major architectural components are:
+
+Frontend Application:
+Provides the web-based user interface used by administrators, managers, and business users.
+
+API Gateway:
+Receives incoming API requests and performs routing, authentication enforcement, and request validation.
+
+Backend Services:
+Implement business logic for workflow execution, user management, reporting, and integration management.
+
+Database Layer:
+Stores application data, user records, workflow configurations, and audit information.
+
+Background Processing:
+Handles asynchronous jobs, notifications, scheduled workflows, and data synchronization.
+
+Monitoring Layer:
+Collects application logs, infrastructure metrics, and system health information.
+
+The production platform is deployed using containerized services.
+
+2. BACKEND TECHNOLOGY STACK
+
+The backend services primarily use Python and FastAPI.
+
+FastAPI provides:
+- REST API development.
+- Request validation.
+- Response serialization.
+- OpenAPI documentation.
+- Dependency injection.
+- Asynchronous request handling.
+
+SQL databases are used for transactional records.
+
+PostgreSQL is the primary production relational database.
+
+Redis is used for caching, temporary data, and selected background-processing coordination.
+
+Background tasks are executed through dedicated worker services.
+
+3. DATABASE ARCHITECTURE
+
+The primary production database is PostgreSQL.
+
+The database contains the following logical entities:
+
+Users:
+Stores user identifiers, email addresses, authentication references, and account status.
+
+Organizations:
+Stores enterprise customer information.
+
+Roles:
+Defines application roles and access permissions.
+
+Workflows:
+Stores workflow definitions and configurations.
+
+Workflow Executions:
+Maintains execution history, status, and timestamps.
+
+Integrations:
+Stores external integration configuration references.
+
+Audit Logs:
+Maintains security-sensitive and business-critical activity records.
+
+Sensitive credentials are not stored as plain text.
+
+Database connections use encrypted communication in production.
+
+Regular database backups are performed daily.
+
+The recovery point objective (RPO) is four hours, and the recovery time objective (RTO) is eight hours.
+
+4. AUTHENTICATION AND AUTHORIZATION
+
+The platform uses JSON Web Tokens (JWT) for API authentication.
+
+Users authenticate through the login endpoint and receive an access token.
+
+The token must be supplied in the HTTP Authorization header using the Bearer scheme.
+
+Example:
+
+Authorization: Bearer <access_token>
+
+Access tokens expire after 30 minutes.
+
+Refresh tokens have a maximum validity of seven days and are rotated when renewed.
+
+Role-based access control (RBAC) determines which operations a user may perform.
+
+Supported roles include:
+- Organization Administrator.
+- Department Manager.
+- Standard User.
+- Read-Only Auditor.
+
+Every protected endpoint must validate the identity and permissions of the requesting user.
+
+5. CLOUD INFRASTRUCTURE
+
+The production platform runs on Amazon Web Services (AWS).
+
+The main infrastructure components include:
+
+Amazon EC2:
+Runs containerized backend application services.
+
+Application Load Balancer:
+Distributes incoming traffic across healthy application instances.
+
+Amazon RDS:
+Hosts the managed PostgreSQL production database.
+
+Amazon S3:
+Stores uploaded files, reports, and approved customer documents.
+
+Amazon CloudWatch:
+Collects logs, application metrics, and infrastructure monitoring data.
+
+AWS Certificate Manager:
+Manages TLS certificates for HTTPS communication.
+
+The infrastructure is distributed across multiple availability zones where supported by the deployment configuration.
+
+6. ENGINEERING INFRASTRUCTURE BUDGET
+
+The FY2026 Engineering budget is $800,000.
+
+The approved allocation is:
+
+Cloud infrastructure and developer platforms: $360,000.
+
+Development tools and external specialists: $240,000.
+
+Security and reliability improvements: $120,000.
+
+Training and technical certification: $80,000.
+
+Total: $800,000.
+
+New recurring infrastructure commitments exceeding $25,000 annually require approval from the VP of Engineering and Finance Director before contract signature.
+
+7. SECURITY REQUIREMENTS
+
+All production traffic must use HTTPS.
+
+Sensitive information must be encrypted at rest and in transit.
+
+Database credentials and API secrets must be stored in approved secrets-management systems.
+
+Production access follows least-privilege principles.
+
+Developers must not directly expose database services to public networks.
+
+Security vulnerabilities must be reported to Security Operations.
+
+Critical security incidents must be escalated immediately.
+
+8. CI/CD AND DEPLOYMENT
+
+Northstar uses GitHub Actions for continuous integration and deployment.
+
+The deployment pipeline includes:
+
+Source code checkout.
+
+Dependency installation.
+
+Static analysis.
+
+Automated unit tests.
+
+Integration tests.
+
+Container image creation.
+
+Security scanning.
+
+Deployment to the target environment.
+
+Post-deployment health verification.
+
+Production deployment requires approval from an authorized engineering reviewer.
+
+A failed health check triggers deployment rollback or incident escalation.
+
+9. MONITORING AND RELIABILITY
+
+Engineering monitors:
+
+API response time.
+
+Request failure rate.
+
+CPU utilization.
+
+Memory utilization.
+
+Database connection usage.
+
+Background job failures.
+
+Infrastructure availability.
+
+The production availability target is 99.9% monthly, excluding approved maintenance windows.
+
+Critical incidents are assigned an incident commander.
+
+Engineering must maintain incident records and conduct post-incident reviews for significant outages.
+
+10. RESPONSIBILITIES
+
+The VP of Engineering owns the platform architecture.
+
+Backend Engineers maintain APIs and business logic.
+
+Infrastructure Engineers manage AWS resources and deployments.
+
+Security Operations reviews security controls.
+
+Database Administrators maintain database reliability and backup procedures.
+
+Engineering must review this document annually.
+
+Contact: engineering@northstarsystems.example

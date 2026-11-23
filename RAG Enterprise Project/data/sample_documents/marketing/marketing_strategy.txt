@@ -1,0 +1,176 @@
+NORTHSTAR SYSTEMS, INC.
+FY2026 MARKETING STRATEGY
+
+Document ID: MKT-STR-001
+Version: 1.2
+Approval Date: January 8, 2026
+Planning Period: January 1 - December 31, 2026
+Owner: Marketing Department
+
+INTRODUCTION
+
+Northstar Systems, Inc. provides workflow automation and business analytics software to mid-market and enterprise customers.
+
+The FY2026 marketing strategy focuses on increasing brand awareness, generating qualified sales opportunities, improving product adoption, and expanding the company's presence in North America and India.
+
+The strategy is funded through the approved annual Marketing department budget of $500,000, documented in FIN-BUD-001.
+
+1. BUSINESS AND MARKETING OBJECTIVES
+
+The Marketing department has established the following measurable objectives for FY2026:
+
+Generate 1,800 marketing-qualified leads (MQLs).
+
+Influence $4.5 million in qualified sales pipeline.
+
+Increase product-demo-to-opportunity conversion from 18% to 22% by December 31, 2026.
+
+Increase website organic traffic by 30% compared with FY2025.
+
+Improve brand recognition among enterprise technology buyers.
+
+The department will prioritize organizations with 500 to 5,000 employees.
+
+Primary target industries include:
+- Financial services.
+- Healthcare technology.
+- Business services.
+- Enterprise software.
+- Logistics and supply chain management.
+
+Marketing-qualified leads must meet the approved customer profile and demonstrate meaningful interest in Northstar's products.
+
+2. TARGET AUDIENCES
+
+The primary decision-makers are:
+
+IT Directors:
+Responsible for technology selection, platform reliability, and integration requirements.
+
+Operations Leaders:
+Interested in reducing manual processes and improving operational efficiency.
+
+Transformation Executives:
+Evaluate enterprise-wide automation opportunities.
+
+Technical Evaluators:
+Platform architects, security professionals, and engineering managers who assess technical feasibility.
+
+Marketing campaigns must communicate measurable business benefits without making unsupported product claims.
+
+Any technical statement about security, integrations, availability, or product performance must be reviewed by Engineering or Security before publication.
+
+Customer names, logos, and testimonials require written permission from Customer Success and Legal.
+
+3. APPROVED MARKETING BUDGET
+
+The FY2026 Marketing department budget is $500,000.
+
+The approved allocation is:
+
+Digital campaign expenditure: $120,000.
+Events and field marketing: $80,000.
+Content and creative production: $90,000.
+Marketing technology and analytics: $60,000.
+Research and agency services: $50,000.
+Uncommitted campaign capacity: $100,000.
+
+Total approved allocation: $500,000.
+
+The digital campaign allocation is divided into:
+
+Search advertising: $50,000.
+Social media advertising: $45,000.
+Retargeting and other digital distribution: $25,000.
+
+Total digital allocation: $120,000.
+
+The Marketing Director may reallocate up to 10% between budget categories with written Finance notification, provided the department's total approved allocation is not exceeded.
+
+Any transfer between departments requires CFO approval.
+
+4. DIGITAL MARKETING STRATEGY
+
+Northstar will use search advertising, professional social networks, targeted display campaigns, and retargeting.
+
+Search advertising will focus on high-intent keywords related to workflow automation, enterprise integration, and business process optimization.
+
+Social media advertising will primarily target IT Directors, Operations Managers, and enterprise decision-makers.
+
+Retargeting will focus on website visitors who viewed product pages, pricing information, or technical documentation.
+
+Marketing must track:
+- Advertising expenditure.
+- Cost per click.
+- Cost per qualified lead.
+- Conversion rate.
+- Marketing-qualified leads.
+- Sales-qualified leads.
+- Pipeline contribution.
+
+Campaign performance must be evaluated monthly.
+
+5. CONTENT AND BRAND DEVELOPMENT
+
+The content team will produce technical whitepapers, implementation guides, product demonstrations, customer case studies, and educational articles.
+
+Engineering must review technical documentation before publication.
+
+Customer Success must approve customer-related case studies.
+
+Legal must review marketing material involving contractual claims, customer references, or regulated industries.
+
+All published material must follow the Northstar brand guidelines.
+
+6. EVENTS AND FIELD MARKETING
+
+The company plans to participate in enterprise technology conferences and regional business events.
+
+The approved FY2026 events and field marketing budget is $80,000.
+
+Marketing must submit an event proposal containing:
+- Event name and location.
+- Estimated attendance.
+- Target audience.
+- Sponsorship cost.
+- Expected qualified leads.
+- Expected pipeline contribution.
+- Post-event follow-up plan.
+
+Department Director approval is required for event commitments above $2,500 and up to $10,000. Finance Director approval is required above $10,000.
+
+7. PERFORMANCE MEASUREMENT
+
+Marketing performance is reviewed monthly.
+
+The department publishes a campaign performance report containing:
+
+Campaign expenditure.
+Lead generation.
+Cost per lead.
+Website engagement.
+Lead-to-opportunity conversion.
+Pipeline contribution.
+Budget utilization.
+
+Finance receives expenditure information for reconciliation.
+
+Sales and Customer Success provide feedback on lead quality and customer engagement.
+
+8. DEPARTMENT RESPONSIBILITIES
+
+The Marketing Director owns the annual strategy and budget.
+
+Campaign Managers manage individual campaigns and report their performance.
+
+The Content Team maintains brand consistency and coordinates technical reviews.
+
+Finance validates expenditure and budget availability.
+
+Engineering reviews technical product claims.
+
+Customer Success approves customer references.
+
+Marketing reports must be submitted to Finance by the fifth business day of each month.
+
+Contact: marketing@northstarsystems.example

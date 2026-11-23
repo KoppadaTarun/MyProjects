@@ -1,0 +1,186 @@
+NORTHSTAR SYSTEMS, INC.
+FY2026 ANNUAL OPERATING BUDGET
+
+Document ID: FIN-BUD-001
+Version: 1.0
+Approval Date: December 12, 2025
+Fiscal Year: January 1, 2026 - December 31, 2026
+Owner: Finance
+Currency: USD
+
+INTRODUCTION
+
+This document defines the approved FY2026 operating budget for Northstar Systems, Inc.
+
+The budget supports the company's enterprise software development, marketing activities, employee operations, infrastructure, and customer service functions.
+
+All department heads are accountable for maintaining spending within their approved allocations.
+
+Finance is responsible for monitoring expenditure, reviewing financial performance, and reporting budget variances.
+
+1. TOTAL COMPANY BUDGET
+
+The board has approved a total FY2026 operating budget of $3,000,000.
+
+The approved departmental allocations are:
+
+Engineering: $800,000
+Marketing: $500,000
+Human Resources: $200,000
+Operations: $600,000
+Finance and Corporate Administration: $300,000
+Customer Success: $400,000
+
+Total department allocations: $2,800,000
+
+Central contingency reserve: $200,000
+
+Total approved budget: $3,000,000
+
+The contingency reserve is controlled by the CFO and cannot be accessed by individual departments without written CFO approval.
+
+2. MARKETING DEPARTMENT BUDGET
+
+The Marketing department receives an approved annual allocation of $500,000.
+
+The allocation is distributed as follows:
+
+Digital campaign expenditure: $120,000
+Events and field marketing: $80,000
+Content and creative production: $90,000
+Marketing technology and analytics: $60,000
+Research and agency services: $50,000
+Uncommitted campaign capacity: $100,000
+
+Total marketing allocation: $500,000
+
+The digital campaign allocation includes search advertising, social media advertising, retargeting, and other digital distribution.
+
+The approved digital channel allocation is:
+
+Search advertising: $50,000
+Social media advertising: $45,000
+Retargeting and other digital distribution: $25,000
+
+Marketing reports must distinguish approved allocations, actual expenditure, committed expenditure, and remaining available funds.
+
+The Marketing Director may reallocate up to 10% between budget categories with written Finance notification, provided the total department allocation is not exceeded.
+
+3. ENGINEERING DEPARTMENT BUDGET
+
+Engineering receives $800,000 for product development, infrastructure, engineering tools, and technical reliability.
+
+The allocation includes:
+
+Cloud infrastructure and developer platforms: $360,000
+Development tools and external specialists: $240,000
+Security and reliability improvements: $120,000
+Training and technical certification: $80,000
+
+Total engineering allocation: $800,000
+
+Cloud infrastructure commitments must be reviewed quarterly.
+
+New recurring infrastructure commitments exceeding $25,000 annually require approval from the VP of Engineering and Finance Director before contract signature.
+
+4. HUMAN RESOURCES BUDGET
+
+Human Resources receives an annual allocation of $200,000.
+
+The allocation is divided into:
+
+Recruitment: $70,000
+Employee learning and development: $45,000
+Benefits administration and employee engagement: $55,000
+HR systems and compliance: $30,000
+
+Total HR allocation: $200,000
+
+Eligible employees receive an annual learning allowance of $1,200 under the Employee Handbook.
+
+The learning allowance must remain within the approved learning and development allocation.
+
+5. OPERATIONS DEPARTMENT BUDGET
+
+Operations receives an annual allocation of $600,000.
+
+The allocation includes:
+
+Facilities and workplace services: $250,000
+Logistics and service providers: $180,000
+Equipment and maintenance: $100,000
+Operational contingency: $70,000
+
+Total operations allocation: $600,000
+
+Vendor selection and purchasing activities must follow OPS-POL-001, Vendor Management Policy, and OPS-POL-002, Procurement Guidelines.
+
+6. FINANCIAL APPROVAL THRESHOLDS
+
+Northstar uses the following spending approval matrix:
+
+Up to $2,500:
+Department Manager approval.
+
+Above $2,500 and up to $10,000:
+Department Director approval.
+
+Above $10,000:
+Finance Director approval before commitment.
+
+Above $50,000:
+Finance Director and CFO approval.
+
+The approval threshold applies to the entire expected financial commitment, including applicable fees, taxes, and contract periods.
+
+Splitting a purchase into multiple smaller invoices to avoid approval thresholds is strictly prohibited.
+
+The department budget owner must verify fund availability before requesting approval.
+
+7. MONTHLY FINANCIAL MONITORING
+
+Department owners must submit monthly financial forecasts by the fifth business day of each month.
+
+Finance distributes actual-versus-budget reports by the tenth business day.
+
+A budget variance greater than 10% or $15,000, whichever threshold is reached first, requires a written explanation and corrective action plan.
+
+Department owners must submit their explanations within five business days after receiving the variance report.
+
+Reports must separately identify:
+- Actual expenditure.
+- Outstanding commitments.
+- Forecast expenditure.
+- Remaining budget.
+- Budget variance.
+
+8. EXPENSE REIMBURSEMENTS
+
+Employee reimbursements and business travel expenses must follow FIN-POL-002, Expense Reimbursement Policy.
+
+Claims require itemized receipts, a business purpose, an appropriate cost center, and all required approvals.
+
+Employees must submit claims within 30 calendar days after the expense date.
+
+Managers cannot approve their own expenses.
+
+9. GOVERNANCE AND RESPONSIBILITIES
+
+The CFO owns the annual budget.
+
+Finance is responsible for:
+- Maintaining financial records.
+- Reviewing department expenditure.
+- Monitoring budget compliance.
+- Publishing monthly financial reports.
+- Reviewing financial exceptions.
+
+Department directors are responsible for managing their allocations.
+
+Transfers between department budgets require CFO approval.
+
+Finance may freeze discretionary spending when forecast revenue or cash conditions deteriorate materially.
+
+All financial exceptions must be documented in the company's financial system.
+
+Contact: finance@northstarsystems.example

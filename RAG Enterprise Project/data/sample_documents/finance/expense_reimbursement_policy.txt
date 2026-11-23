@@ -1,0 +1,179 @@
+NORTHSTAR SYSTEMS, INC.
+EXPENSE REIMBURSEMENT POLICY
+
+Document ID: FIN-POL-002
+Version: 2.0
+Effective Date: January 1, 2026
+Owner: Finance
+Applicable To: Employees and approved contractors
+
+INTRODUCTION
+
+This policy defines the procedures and requirements for reimbursing legitimate business expenses incurred by employees and approved contractors of Northstar Systems, Inc.
+
+The policy covers travel, accommodation, meals, local transportation, software subscriptions, equipment, and other approved business purchases.
+
+All expenses must comply with the FY2026 Annual Operating Budget FIN-BUD-001, Procurement Guidelines OPS-POL-002, and the Employee Handbook HR-POL-001.
+
+1. GENERAL EXPENSE REQUIREMENTS
+
+An expense is eligible for reimbursement only when it:
+- Has a legitimate business purpose.
+- Is reasonable in amount.
+- Falls within an approved department budget.
+- Has the necessary approval.
+- Includes appropriate supporting documentation.
+
+Employees should use company-issued payment cards whenever available.
+
+Personal purchases, traffic fines, companion travel, and expenses unrelated to business activities are not reimbursable.
+
+Alcohol expenses are not reimbursable unless a documented customer-event exception is approved in advance by the CFO and permitted by local law.
+
+All expense claims must be submitted through the company expense portal within 30 calendar days after the expense date.
+
+Each expense entry must contain:
+- Transaction date.
+- Merchant name.
+- Amount and currency.
+- Cost center.
+- Business purpose.
+- Supporting receipt.
+- Attendee details when applicable.
+
+Itemized receipts are mandatory for expenses of $25 or more.
+
+For expenses below $25, a transaction record and written explanation are acceptable.
+
+Employees may submit no more than two lost-receipt declarations per quarter. Each declaration requires manager approval.
+
+2. FINANCIAL APPROVAL MATRIX
+
+Northstar applies the following approval thresholds:
+
+Expenses up to $2,500:
+Department Manager approval.
+
+Expenses above $2,500 and up to $10,000:
+Department Director approval.
+
+Expenses above $10,000:
+Finance Director approval before the company commits to the expenditure.
+
+Expenses above $50,000:
+Finance Director and CFO approval.
+
+Approval thresholds apply to the complete expected commitment, including fees, taxes, and contract periods where known.
+
+Employees cannot approve their own expenses.
+
+Manager approval confirms the business purpose and policy compliance but does not replace procurement, security, or legal reviews.
+
+3. BUSINESS TRAVEL AND ACCOMMODATION
+
+All business travel requires manager approval before booking.
+
+International travel additionally requires Department Director approval and a documented business justification.
+
+Employees should book economy-class air travel for flights shorter than six hours.
+
+Premium economy may be approved by a Department Director for flights lasting six hours or longer.
+
+Business-class travel requires CFO approval.
+
+Hotel reimbursement guidelines are:
+
+Standard-cost locations: Maximum $220 per night.
+Designated high-cost cities: Maximum $300 per night.
+
+Hotel limits exclude applicable taxes.
+
+Any exception requires written Department Director approval before booking.
+
+Employees should select refundable tickets only when travel schedules are uncertain or when the price difference is reasonable.
+
+4. MEALS AND LOCAL TRANSPORTATION
+
+Daily meal guidelines are:
+
+Domestic business travel: $60 per day.
+International business travel: $75 per day.
+
+These limits include tips.
+
+Customer-hosted meals exceeding the normal guideline require advance manager approval.
+
+The expense claim must include the names of attendees and the business purpose.
+
+Taxi and rideshare expenses are permitted when public transport is impractical, safety is a concern, or business equipment must be transported.
+
+Premium vehicle categories require a documented accessibility or safety justification.
+
+5. SOFTWARE AND EQUIPMENT PURCHASES
+
+Software subscriptions, cloud services, and equipment cannot be purchased through personal expense claims when they require procurement, security, privacy, or legal review.
+
+Software purchases require manager approval and Security review before use.
+
+Equipment purchases must comply with Procurement Guidelines OPS-POL-002.
+
+Company assets must be registered when required by the asset management process.
+
+Personal devices and recurring personal subscriptions are not reimbursable without written business justification and approval.
+
+6. CLAIM SUBMISSION AND PAYMENT
+
+Employees submit claims through the expense portal.
+
+Managers must review submitted claims within five business days.
+
+Finance validates:
+- Supporting receipts.
+- Expense categorization.
+- Budget availability.
+- Required approvals.
+- Compliance with company policy.
+
+Approved reimbursements are normally processed in the next twice-monthly payment cycle.
+
+Claims submitted after the 30-day deadline may be rejected unless the Finance Director approves an exception for documented circumstances.
+
+7. AUDIT AND POLICY VIOLATIONS
+
+Finance conducts monthly sample audits.
+
+Finance may request original receipts, additional explanations, or confirmation of business purpose.
+
+Duplicate claims, altered receipts, deliberate misclassification, and purchase splitting are prohibited.
+
+Employees found violating this policy may be required to repay amounts and may face disciplinary action.
+
+Suspected financial fraud must be escalated to the CFO and People Operations.
+
+Expense records are retained for seven years or longer where local law requires.
+
+8. EXAMPLES
+
+Example 1:
+A $2,000 business purchase requires Department Manager approval.
+
+Example 2:
+A $9,500 equipment purchase requires Department Director approval and procurement review.
+
+Example 3:
+A $12,000 vendor commitment requires Finance Director approval before signature.
+
+Example 4:
+A $62,000 commitment requires both Finance Director and CFO approval.
+
+9. RESPONSIBILITIES
+
+Employees are responsible for accurate claims and supporting documentation.
+
+Managers validate business purpose and budget coding.
+
+Department Directors approve expenses within their authority.
+
+Finance validates financial controls and processes reimbursements.
+
+Contact: finance@northstarsystems.example

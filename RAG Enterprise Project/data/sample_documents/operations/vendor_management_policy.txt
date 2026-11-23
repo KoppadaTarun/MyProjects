@@ -1,0 +1,232 @@
+NORTHSTAR SYSTEMS, INC.
+VENDOR MANAGEMENT POLICY
+
+Document ID: OPS-POL-001
+Version: 1.5
+Effective Date: January 1, 2026
+Owner: Operations Department
+Review Date: December 15, 2026
+
+INTRODUCTION
+
+This policy defines how Northstar Systems, Inc. identifies, evaluates, approves, monitors, and manages external vendors and service providers.
+
+The policy applies to all departments purchasing goods or services from external organizations.
+
+The objective is to ensure that vendors meet Northstar's financial, operational, security, legal, and service-quality requirements.
+
+Vendor management activities must comply with the FY2026 Annual Operating Budget FIN-BUD-001 and Procurement Guidelines OPS-POL-002.
+
+1. VENDOR CLASSIFICATION
+
+Vendors are classified into three categories.
+
+Category A - Critical Vendors:
+
+Vendors providing services essential to business continuity.
+
+Examples include:
+- Cloud infrastructure providers.
+- Production database providers.
+- Security monitoring providers.
+- Critical enterprise software platforms.
+
+Category B - Operational Vendors:
+
+Vendors supporting regular department operations.
+
+Examples include:
+- Office facility providers.
+- Equipment suppliers.
+- Logistics companies.
+- Professional consulting services.
+
+Category C - Low-Risk Vendors:
+
+Vendors providing low-value, non-critical products or services.
+
+Examples include:
+- Office stationery suppliers.
+- General printing services.
+- Small administrative service providers.
+
+The vendor classification determines the depth of due diligence and monitoring required.
+
+2. VENDOR ONBOARDING PROCESS
+
+All new vendors must complete the official vendor onboarding process before receiving a purchase order or contract.
+
+The process consists of six stages.
+
+Stage 1: Vendor Request
+
+The requesting department submits a vendor registration request to Operations.
+
+The request must include:
+- Vendor legal name.
+- Business address.
+- Contact details.
+- Description of products or services.
+- Estimated annual contract value.
+- Requesting department.
+- Business justification.
+
+Stage 2: Initial Evaluation
+
+Operations verifies the vendor's business identity and evaluates whether the proposed service satisfies the department's requirements.
+
+The requesting department must explain why the vendor is needed.
+
+Stage 3: Financial and Legal Review
+
+Finance verifies pricing, budget availability, payment terms, and financial approval requirements.
+
+Legal reviews contracts, liability clauses, confidentiality obligations, and termination conditions where applicable.
+
+Stage 4: Security Assessment
+
+Vendors handling company systems, customer data, or confidential information must complete a security assessment.
+
+Security Operations reviews:
+- Data protection practices.
+- Encryption requirements.
+- Access controls.
+- Incident reporting procedures.
+- Business continuity arrangements.
+
+Critical vendors must provide appropriate security documentation before approval.
+
+Stage 5: Final Approval
+
+Operations records the assessment results and submits the vendor for final approval.
+
+The applicable department and financial approval authorities must approve the commitment before contract signature.
+
+Stage 6: Vendor Registration
+
+Approved vendors are entered into the central vendor register.
+
+Each vendor receives a unique vendor identifier.
+
+The vendor register stores:
+- Vendor ID.
+- Legal name.
+- Vendor category.
+- Approval date.
+- Contract expiry date.
+- Department owner.
+- Risk classification.
+- Current approval status.
+
+3. FINANCIAL APPROVAL REQUIREMENTS
+
+Vendor commitments follow the company approval matrix.
+
+Up to $2,500:
+Department Manager approval.
+
+Above $2,500 and up to $10,000:
+Department Director approval.
+
+Above $10,000:
+Finance Director approval.
+
+Above $50,000:
+Finance Director and CFO approval.
+
+These requirements apply to the entire expected commitment, including recurring fees and applicable taxes.
+
+New recurring engineering infrastructure commitments exceeding $25,000 annually additionally require approval from the VP of Engineering and Finance Director.
+
+Vendor approval does not authorize spending beyond the department's approved budget.
+
+4. VENDOR RISK ASSESSMENT
+
+Operations and Security assign a risk classification to each vendor.
+
+Critical vendors require detailed due diligence before onboarding.
+
+The assessment evaluates:
+- Financial stability.
+- Operational capability.
+- Information security.
+- Regulatory compliance.
+- Business continuity.
+- Service reliability.
+- Data handling practices.
+
+Vendors processing customer information must agree to appropriate confidentiality and data-protection requirements.
+
+5. CONTRACT MANAGEMENT
+
+All vendor contracts must be stored in the approved contract repository.
+
+Contracts must identify:
+- Scope of services.
+- Contract duration.
+- Pricing and payment terms.
+- Service-level agreements.
+- Confidentiality requirements.
+- Data protection obligations.
+- Termination conditions.
+- Renewal provisions.
+
+Department owners must monitor contract expiry dates.
+
+Renewal requests should be initiated at least 60 calendar days before contract expiration.
+
+6. VENDOR PERFORMANCE MONITORING
+
+Critical vendors are reviewed quarterly.
+
+Operational vendors are reviewed at least twice annually.
+
+Low-risk vendors are reviewed annually or when significant issues arise.
+
+Performance evaluations consider:
+- Delivery reliability.
+- Product or service quality.
+- Contract compliance.
+- Support responsiveness.
+- Pricing consistency.
+- Security incidents.
+- Service-level agreement performance.
+
+Vendors failing to meet contractual requirements may be placed on a corrective action plan.
+
+7. VENDOR SUSPENSION AND TERMINATION
+
+A vendor may be suspended when:
+- Serious security vulnerabilities are identified.
+- Contractual obligations are repeatedly violated.
+- Fraud or unethical conduct is suspected.
+- Required regulatory documentation is missing.
+- Business continuity risks become unacceptable.
+
+Operations coordinates suspension decisions with Legal, Finance, and Security.
+
+Termination must follow contractual conditions.
+
+Outstanding invoices and company assets must be reconciled before closure.
+
+8. RESPONSIBILITIES
+
+Operations owns vendor registration and ongoing vendor records.
+
+Requesting departments define business requirements and monitor service delivery.
+
+Finance validates budgets and financial approvals.
+
+Legal reviews contractual obligations.
+
+Security Operations evaluates information security risks.
+
+Department Directors approve business requirements within their authority.
+
+The CFO approves commitments exceeding $50,000.
+
+9. RECORD RETENTION
+
+Vendor registration records, due diligence documents, contracts, and performance reviews must be retained for seven years after contract termination, or longer where local law requires.
+
+Contact: vendor-management@northstarsystems.example

@@ -1,0 +1,165 @@
+NORTHSTAR SYSTEMS, INC.
+EMPLOYEE HANDBOOK
+
+Document ID: HR-POL-001
+Version: 2.1
+Effective Date: January 1, 2026
+Owner: People Operations
+Review Date: December 15, 2026
+
+INTRODUCTION
+
+This Employee Handbook defines the employment policies, workplace expectations, employee benefits, and professional responsibilities at Northstar Systems, Inc. Northstar Systems is a business-to-business software company headquartered in Austin, Texas, with offices and employees in Hyderabad, India, and other remote locations.
+
+This handbook applies to all regular full-time employees unless a particular section or local employment addendum specifies otherwise. Applicable employment laws and signed employment agreements take precedence whenever they provide greater employee protections.
+
+1. EMPLOYMENT AND WORKING ARRANGEMENTS
+
+Northstar Systems follows a standard Monday-to-Friday working schedule consisting of 40 working hours per week.
+
+The normal collaboration window is between 10:00 AM and 3:00 PM in the employee's local time zone. Employees may organize their remaining working hours flexibly, subject to manager approval and project requirements.
+
+Employees can work from the office, follow a hybrid arrangement, or work remotely depending on their role and approved working arrangement.
+
+New employees complete a 90-calendar-day onboarding period. During this period, managers must schedule:
+- Role-specific orientation.
+- Information security training.
+- Introduction to company policies.
+- A 30-day performance discussion.
+- A 60-day progress review.
+- A 90-day onboarding assessment.
+
+Managers are responsible for ensuring that new employees receive the necessary system access, equipment, and training.
+
+2. WORKPLACE CONDUCT AND PROFESSIONAL BEHAVIOR
+
+Employees must maintain professional behavior when interacting with colleagues, customers, vendors, and business partners.
+
+Northstar strictly prohibits harassment, discrimination, retaliation, intimidation, and inappropriate workplace conduct.
+
+Employees can report workplace concerns to their direct manager, People Operations, or the confidential ethics reporting channel.
+
+People Operations must acknowledge reports within two business days whenever contact information is available. An initial investigation assessment should normally be completed within ten business days.
+
+Employees must disclose potential conflicts of interest before participating in relevant business decisions.
+
+Examples include:
+- Evaluating a supplier owned by a family member.
+- Receiving personal gifts from a business partner.
+- Working for a competing organization.
+- Participating in recruitment decisions involving relatives.
+
+Conflict disclosures must be submitted to the employee's manager and People Operations.
+
+3. COMPENSATION AND EMPLOYEE BENEFITS
+
+Northstar processes payroll twice monthly:
+- First payment: 15th calendar day.
+- Second payment: Final calendar day of the month.
+
+If a payment date falls on a bank holiday, payment is processed on the preceding business day.
+
+Eligible full-time employees may enroll in medical, dental, vision, life insurance, and retirement benefit programs.
+
+New employees generally have 30 calendar days from their employment start date to complete their initial benefit selections.
+
+The company also provides an annual professional learning allowance of $1,200 per eligible employee.
+
+The learning allowance can be used for:
+- Technical certifications.
+- Professional courses.
+- Industry conferences.
+- Role-related training programs.
+
+Manager approval is mandatory before purchasing any training or certification.
+
+Employees must provide proof of course completion or conference attendance within 30 days after the activity.
+
+4. PERFORMANCE MANAGEMENT
+
+Managers must conduct at least two formal performance discussions each calendar year.
+
+The standard review periods are June and December.
+
+Performance evaluations consider:
+- Quality of work.
+- Achievement of assigned objectives.
+- Technical and professional development.
+- Collaboration with other departments.
+- Customer impact.
+- Compliance with company policies.
+
+Employees should maintain their performance objectives in the HR portal.
+
+Promotion decisions are based on sustained performance, demonstrated capabilities, business requirements, and readiness for additional responsibilities.
+
+Length of employment alone does not guarantee promotion.
+
+5. INFORMATION SECURITY AND COMPANY PROPERTY
+
+All employees must protect confidential company information and customer data.
+
+Company-issued devices must have:
+- Full-disk encryption.
+- Approved endpoint protection.
+- Automatic screen locking.
+- Updated operating systems.
+- Approved software installations.
+
+Employees must never share account credentials or store confidential company information in personal cloud storage.
+
+Suspected credential exposure, device loss, or accidental information disclosure must be reported to Security Operations immediately and no later than one hour after discovery.
+
+Employees leaving the company must return all company equipment, access cards, and other company property by their final working day.
+
+6. TRAVEL AND BUSINESS EXPENSES
+
+Business travel requires manager approval before booking.
+
+Employees should select economical travel options that satisfy business requirements.
+
+All travel and reimbursement claims must comply with the Expense Reimbursement Policy FIN-POL-002.
+
+Employees must:
+- Provide itemized receipts.
+- Document the business purpose.
+- Use the appropriate department cost center.
+- Submit claims within 30 calendar days after the expense date.
+- Obtain the required approvals.
+
+Employees cannot approve their own expense claims.
+
+7. LEAVE AND ATTENDANCE
+
+Eligible full-time employees receive 20 working days of annual paid leave per calendar year.
+
+Employees may carry forward a maximum of five unused annual leave days into the next calendar year. These carried-forward days must be used by March 31.
+
+Employees also receive up to ten paid sick leave days annually, subject to applicable local employment laws.
+
+Detailed leave entitlements, request procedures, approval responsibilities, and cancellation rules are documented in HR-POL-002, the Leave and Attendance Policy.
+
+All leave requests must be submitted through the HR portal.
+
+8. EMPLOYEE AND MANAGEMENT RESPONSIBILITIES
+
+Employees are responsible for:
+- Following company policies.
+- Protecting confidential information.
+- Completing mandatory training.
+- Recording attendance accurately.
+- Submitting accurate expense claims.
+- Maintaining professional conduct.
+
+Managers are responsible for:
+- Supporting employee development.
+- Applying policies consistently.
+- Reviewing leave requests.
+- Maintaining adequate team coverage.
+- Escalating policy exceptions.
+
+People Operations owns this handbook and is responsible for publishing policy revisions.
+
+For questions, employees should contact:
+
+people-ops@northstarsystems.example

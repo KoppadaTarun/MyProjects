@@ -1,0 +1,187 @@
+NORTHSTAR SYSTEMS, INC.
+FY2026 DIGITAL MARKETING CAMPAIGN PERFORMANCE REPORT
+
+Document ID: MKT-RPT-001
+Version: 1.0
+Reporting Period: January 1 - September 30, 2026
+Report Date: October 7, 2026
+Owner: Marketing Analytics Team
+Currency: USD
+
+INTRODUCTION
+
+This report summarizes the performance and financial expenditure of Northstar Systems, Inc.'s digital marketing campaigns during the first three quarters of FY2026.
+
+The report evaluates advertising expenditure, campaign effectiveness, lead generation, customer engagement, and budget utilization.
+
+The approved annual Marketing department allocation is $500,000, as defined in FIN-BUD-001.
+
+The approved digital campaign allocation is $120,000, as defined in MKT-STR-001.
+
+1. CAMPAIGN OBJECTIVES
+
+The digital marketing program was designed to:
+
+Increase qualified website traffic.
+
+Generate marketing-qualified leads from enterprise customers.
+
+Improve product awareness among IT and Operations decision-makers.
+
+Generate qualified sales opportunities.
+
+Support the annual marketing objective of influencing $4.5 million in sales pipeline.
+
+The campaign primarily targeted organizations with 500 to 5,000 employees across financial services, healthcare technology, and business services.
+
+2. DIGITAL ADVERTISING EXPENDITURE
+
+The approved digital marketing budget was $120,000.
+
+Actual expenditure during the reporting period was $120,000.
+
+The expenditure breakdown is:
+
+Search advertising: $50,000.
+Social media advertising: $45,000.
+Retargeting and other digital distribution: $25,000.
+
+Total digital advertising expenditure: $120,000.
+
+Budget utilization for digital campaigns was 100%.
+
+Search advertising represented 41.67% of digital expenditure.
+
+Social media advertising represented 37.50% of digital expenditure.
+
+Retargeting and other digital distribution represented 20.83% of digital expenditure.
+
+All three channel allocations were fully utilized during the reporting period.
+
+3. SEARCH ADVERTISING PERFORMANCE
+
+Search advertising expenditure was $50,000.
+
+The search campaigns focused on high-intent enterprise software keywords.
+
+Primary campaign categories included:
+- Workflow automation.
+- Enterprise process management.
+- Business analytics platforms.
+- Enterprise integration software.
+
+Search advertising generated 1,100,000 impressions and 22,000 clicks.
+
+The average cost per click was approximately $2.27.
+
+The campaigns generated 520 marketing-qualified leads.
+
+Search advertising contributed approximately $1.35 million in qualified sales pipeline.
+
+The highest-performing search campaigns targeted enterprise workflow automation and integration-related keywords.
+
+4. SOCIAL MEDIA ADVERTISING PERFORMANCE
+
+Social media advertising expenditure was $45,000.
+
+Campaigns primarily targeted IT Directors, Operations Managers, technology executives, and enterprise transformation professionals.
+
+The campaigns generated:
+- 1,500,000 impressions.
+- 18,000 clicks.
+- 360 marketing-qualified leads.
+- Approximately $950,000 in qualified pipeline.
+
+The average cost per click was $2.50.
+
+Professional networking platforms generated the strongest engagement among enterprise decision-makers.
+
+Social media campaigns were particularly effective for distributing technical whitepapers, product demonstrations, and customer success stories.
+
+5. RETARGETING AND DIGITAL DISTRIBUTION
+
+Retargeting and other digital distribution expenditure totaled $25,000.
+
+The campaigns targeted visitors who had previously interacted with Northstar's website.
+
+The program generated:
+- 600,000 impressions.
+- 10,000 clicks.
+- 220 marketing-qualified leads.
+- Approximately $700,000 in qualified pipeline.
+
+Retargeting improved engagement among visitors who had previously viewed product information.
+
+6. OVERALL CAMPAIGN RESULTS
+
+Combined digital campaign performance:
+
+Total expenditure: $120,000.
+Total impressions: 3,200,000.
+Total clicks: 50,000.
+Total marketing-qualified leads: 1,100.
+Total qualified pipeline contribution: $3,000,000.
+
+Average cost per click: $2.40.
+
+Average digital campaign cost per marketing-qualified lead: approximately $109.09.
+
+Digital campaigns generated 1,100 MQLs against the annual company marketing target of 1,800 MQLs.
+
+This represents approximately 61.11% of the annual lead-generation target.
+
+7. MARKETING BUDGET UTILIZATION
+
+The total approved FY2026 Marketing budget is $500,000.
+
+Digital campaign expenditure was $120,000.
+
+Other marketing categories have separate allocations:
+
+Events and field marketing: $80,000.
+Content and creative production: $90,000.
+Marketing technology and analytics: $60,000.
+Research and agency services: $50,000.
+Uncommitted campaign capacity: $100,000.
+
+At the reporting date, the digital campaign allocation had been fully spent.
+
+The remaining Marketing department budget allocation was $380,000.
+
+This figure represents the difference between the total approved department budget and the reported digital campaign expenditure. It does not represent a verified cash balance after other commitments or expenditure in the remaining categories.
+
+8. PERFORMANCE OBSERVATIONS
+
+Search advertising produced the highest qualified pipeline contribution at $1.35 million.
+
+Social media advertising generated 360 MQLs and supported enterprise brand awareness.
+
+Retargeting generated 220 MQLs and improved engagement with returning website visitors.
+
+The combined digital campaign expenditure was consistent with the approved $120,000 digital allocation.
+
+9. RECOMMENDATIONS
+
+Marketing should prioritize high-intent search campaigns in the next planning cycle.
+
+The team should improve conversion tracking between marketing-qualified leads and sales-qualified opportunities.
+
+Retargeting audiences should be segmented based on product-page engagement.
+
+Finance and Marketing should reconcile all remaining budget categories before approving additional campaigns.
+
+10. RESPONSIBILITIES
+
+The Marketing Director owns campaign performance.
+
+Campaign Managers maintain campaign records and expenditure details.
+
+Marketing Analytics prepares monthly reports.
+
+Finance validates expenditure and budget utilization.
+
+Sales reviews lead quality and pipeline conversion.
+
+This report is maintained by the Marketing Analytics Team.
+
+Contact: marketing@northstarsystems.example

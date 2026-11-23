@@ -1,0 +1,298 @@
+NORTHSTAR SYSTEMS, INC.
+ENTERPRISE PLATFORM REST API DOCUMENTATION
+
+Document ID: ENG-API-001
+Version: 2.0
+Effective Date: March 1, 2026
+Owner: API Engineering Team
+Classification: Internal Technical Documentation
+
+INTRODUCTION
+
+This document describes the REST API standards and commonly used endpoints of the Northstar Enterprise Workflow Platform.
+
+The API enables enterprise customers to manage users, organizations, workflows, integrations, and reporting operations.
+
+The backend is implemented using Python and FastAPI.
+
+All production endpoints are exposed through the Northstar API Gateway.
+
+1. API BASE URL AND VERSIONING
+
+Production API base URL:
+
+https://api.northstarsystems.example/v1
+
+Development API base URL:
+
+https://dev-api.northstarsystems.example/v1
+
+All public API endpoints must include a version prefix.
+
+The current supported version is v1.
+
+Breaking changes require a new API version.
+
+Backward-compatible additions may be introduced without changing the existing version.
+
+2. AUTHENTICATION
+
+The Northstar API uses JSON Web Token (JWT) authentication.
+
+Clients must authenticate using the login endpoint and obtain an access token.
+
+All protected endpoints require the following HTTP header:
+
+Authorization: Bearer <access_token>
+
+The access token expires after 30 minutes.
+
+Refresh tokens remain valid for a maximum of seven days and are rotated during renewal.
+
+The API rejects requests with:
+- Missing access tokens.
+- Invalid signatures.
+- Expired tokens.
+- Invalid token claims.
+- Insufficient user permissions.
+
+Authentication failures return HTTP 401.
+
+Authorization failures return HTTP 403.
+
+3. USER AUTHENTICATION ENDPOINTS
+
+POST /auth/login
+
+Purpose:
+Authenticates a user and returns access and refresh tokens.
+
+Request body:
+
+{
+  "email": "employee@northstarsystems.example",
+  "password": "example-password"
+}
+
+Successful response:
+
+{
+  "access_token": "jwt-access-token",
+  "refresh_token": "jwt-refresh-token",
+  "token_type": "bearer",
+  "expires_in": 1800
+}
+
+POST /auth/refresh
+
+Purpose:
+Renews an access token using a valid refresh token.
+
+POST /auth/logout
+
+Purpose:
+Invalidates the active refresh-token session.
+
+4. USER MANAGEMENT ENDPOINTS
+
+GET /users
+
+Purpose:
+Retrieves users accessible to the authenticated organization administrator.
+
+Query parameters:
+
+page:
+Page number. Default value is 1.
+
+limit:
+Maximum records per page. Default value is 20. Maximum allowed value is 100.
+
+role:
+Optional user role filter.
+
+status:
+Optional account status filter.
+
+Example:
+
+GET /v1/users?page=1&limit=20&role=manager
+
+GET /users/{user_id}
+
+Purpose:
+Retrieves information about a specific user.
+
+POST /users
+
+Purpose:
+Creates a new user account.
+
+Required permissions:
+Organization Administrator.
+
+PUT /users/{user_id}
+
+Purpose:
+Updates an existing user's profile or role, subject to authorization rules.
+
+DELETE /users/{user_id}
+
+Purpose:
+Deactivates a user account.
+
+Deletion is implemented as a soft-delete operation to preserve audit history.
+
+5. WORKFLOW MANAGEMENT ENDPOINTS
+
+GET /workflows
+
+Purpose:
+Lists workflows available to the authenticated organization.
+
+POST /workflows
+
+Purpose:
+Creates a new workflow definition.
+
+Required permissions:
+Organization Administrator or an authorized Department Manager.
+
+GET /workflows/{workflow_id}
+
+Purpose:
+Retrieves workflow configuration and metadata.
+
+PUT /workflows/{workflow_id}
+
+Purpose:
+Updates an existing workflow.
+
+POST /workflows/{workflow_id}/execute
+
+Purpose:
+Starts workflow execution.
+
+The API returns an execution identifier that can be used to track progress.
+
+GET /executions/{execution_id}
+
+Purpose:
+Retrieves workflow execution status and results.
+
+Supported execution statuses include:
+
+PENDING
+RUNNING
+COMPLETED
+FAILED
+CANCELLED
+
+6. REQUEST VALIDATION AND ERROR HANDLING
+
+All request bodies must use JSON.
+
+The API validates incoming data using FastAPI and Pydantic schemas.
+
+Common HTTP response codes include:
+
+200 - Request completed successfully.
+
+201 - Resource created successfully.
+
+204 - Request completed without a response body.
+
+400 - Invalid request.
+
+401 - Authentication required or token invalid.
+
+403 - Insufficient permissions.
+
+404 - Requested resource not found.
+
+409 - Resource conflict.
+
+422 - Request validation failed.
+
+429 - API rate limit exceeded.
+
+500 - Internal server error.
+
+Error responses follow a consistent JSON structure.
+
+Example:
+
+{
+  "error": "VALIDATION_ERROR",
+  "message": "The supplied request contains invalid fields.",
+  "details": {}
+}
+
+7. API RATE LIMITING
+
+Standard authenticated clients are limited to 120 requests per minute per user.
+
+Enterprise integration clients may request a higher limit through the API Engineering Team.
+
+Excessive requests return HTTP 429.
+
+Rate-limit response headers provide the configured limit and remaining request capacity where applicable.
+
+Clients should use exponential backoff when retrying rate-limited requests.
+
+8. PAGINATION AND FILTERING
+
+List endpoints support pagination.
+
+The standard parameters are:
+
+page
+limit
+sort_by
+order
+
+The default sorting order is descending creation date.
+
+Filtering parameters depend on the endpoint.
+
+Clients should avoid requesting unnecessarily large result sets.
+
+9. API SECURITY
+
+All production API traffic must use HTTPS.
+
+JWT tokens must not be placed in URL query parameters.
+
+API credentials must never be committed to source-control repositories.
+
+Sensitive information must not be included in application logs.
+
+Production access follows role-based authorization.
+
+The API Gateway performs request routing and authentication enforcement.
+
+Backend services must also validate permissions for protected operations.
+
+10. API VERSIONING AND DEPRECATION
+
+The current production API version is v1.
+
+Deprecated endpoints must be announced at least 90 calendar days before removal.
+
+Breaking changes require a separate version.
+
+Engineering maintains version compatibility documentation.
+
+11. SUPPORT AND RESPONSIBILITIES
+
+The API Engineering Team owns endpoint specifications and implementation standards.
+
+Security Operations reviews authentication and authorization controls.
+
+Infrastructure Engineering maintains API Gateway configuration and availability.
+
+Customer Success communicates integration changes to enterprise customers.
+
+Production API incidents must be escalated to Engineering Operations.
+
+Contact: engineering@northstarsystems.example
